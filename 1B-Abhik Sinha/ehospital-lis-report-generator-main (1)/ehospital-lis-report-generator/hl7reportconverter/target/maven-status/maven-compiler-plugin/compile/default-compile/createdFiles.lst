@@ -1,0 +1,5 @@
+ehospital\lis\hl7reportconverter\Hl7reportconverterApplication.class
+ehospital\lis\hl7reportconverter\model\HL7Message.class
+ehospital\lis\hl7reportconverter\service\ReportGeneratorService.class
+ehospital\lis\hl7reportconverter\controller\ReportGeneratorController.class
+ehospital\lis\hl7reportconverter\config\ContentConfiguration.class
